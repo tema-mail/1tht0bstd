@@ -1,0 +1,1 @@
+import{f as e,m as t}from"./store.v5AkRYzJ.js";document.querySelectorAll(`[data-find]`).forEach(n=>n.addEventListener(`submit`,r=>{r.preventDefault(),e.value=(new FormData(n).get(`q`)||``).trim(),t.value=`search`}));
